@@ -10,4 +10,6 @@ Información sobre Raspberrys
 
 3.[Instalación]
 
-4.[Uso]
+4.[Uso]  
+
+![alt text](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2015/02/84485-raspberry-pi-que-modelo-me-compro.jpg?itok=Un7BKi7g)
