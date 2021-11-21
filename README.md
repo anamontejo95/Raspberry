@@ -12,4 +12,11 @@ Información sobre Raspberrys
 
 4.[Uso]  
 
-![alt text](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2015/02/84485-raspberry-pi-que-modelo-me-compro.jpg?itok=Un7BKi7g)
+![alt text](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2015/02/84485-raspberry-pi-que-modelo-me-compro.jpg?itok=Un7BKi7g)  
+
+##Referencias  
+https://techkrowd.com/2019/12/26/raspberry-pi-como-instalar-raspbian/  
+https://www.geeknetic.es/Raspberry-Pi/que-es-y-para-que-sirve  
+https://www.profesionalreview.com/2021/07/18/que-es-raspberry-pi/  
+
+##Licencia
