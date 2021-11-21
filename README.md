@@ -2,12 +2,9 @@
 
 Información sobre Raspberrys  
 
-1.[Introdcción] (https://github.com/anamontejo95/Raspberry/blob/main/Introducci%C3%B3n)
+##Ïndice
 
-##Introducción   
-
-En este repositorio voy a hablar sobre la Raspberry. 
-Hablaremos de que es, como se instala y como se usa.  
+1.[Introducción](https://github.com/anamontejo95/Raspberry/blob/main/Introducci%C3%B3n)
 
 
 ##¿Qué es una Raspberry?    
