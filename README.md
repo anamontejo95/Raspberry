@@ -10,7 +10,7 @@ Información sobre Raspberrys
 
 3.[Instalación](https://github.com/anamontejo95/Raspberry/blob/main/Instalaci%C3%B3n)
 
-4.[Uso]  
+4.[Uso](https://github.com/anamontejo95/Raspberry/blob/main/Uso)  
 
 ![alt text](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2015/02/84485-raspberry-pi-que-modelo-me-compro.jpg?itok=Un7BKi7g)  
 
