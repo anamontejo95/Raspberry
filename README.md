@@ -19,4 +19,5 @@ https://techkrowd.com/2019/12/26/raspberry-pi-como-instalar-raspbian/
 https://www.geeknetic.es/Raspberry-Pi/que-es-y-para-que-sirve  
 https://www.profesionalreview.com/2021/07/18/que-es-raspberry-pi/  
 
-## Licencia
+## Licencia  
+![alt text](https://cguarnizovelez.files.wordpress.com/2015/04/word1.png)  
