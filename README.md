@@ -8,7 +8,7 @@ Información sobre Raspberrys
 
 2.[Qué es una Raspberry](https://github.com/anamontejo95/Raspberry/blob/main/Qu%C3%A9%20es)
 
-3.[Instalación]
+3.[Instalación](https://github.com/anamontejo95/Raspberry/blob/main/Instalaci%C3%B3n)
 
 4.[Uso]  
 
