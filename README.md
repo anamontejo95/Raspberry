@@ -6,7 +6,7 @@ Información sobre Raspberrys
 
 1.[Introducción](https://github.com/anamontejo95/Raspberry/blob/main/Introducci%C3%B3n.md)
 
-2.[Qué es una Raspberry](https://github.com/anamontejo95/Raspberry/blob/main/Qu%C3%A9%20es)
+2.[Qué es una Raspberry](https://github.com/anamontejo95/Raspberry/blob/main/quees.md)
 
 3.[Instalación](https://github.com/anamontejo95/Raspberry/blob/main/Instalaci%C3%B3n)
 
